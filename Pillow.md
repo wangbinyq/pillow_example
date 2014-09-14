@@ -325,4 +325,5 @@ draft()方法允许在不读取文件内容的情况下尽可能（可能不会�
 
 
 #参考
-[PIL中的Image模块](http://www.cnblogs.com/way_testlife/archive/2011/04/20/2022997.html)
+* [PIL中的Image模块](http://www.cnblogs.com/way_testlife/archive/2011/04/20/2022997.html)
+* [Pillow Concepts](http://pillow.readthedocs.org/en/latest/handbook/concepts.html)
